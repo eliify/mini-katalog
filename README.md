@@ -67,7 +67,3 @@ screenshots/
 - API: https://wantapi.com/products.php
 - Banner: https://wantapi.com/assets/banner.png
 - Yerel yedek: assets/products.json
-
-## Geliştirici
-
-Elif Yurttakalan
