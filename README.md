@@ -1,63 +1,46 @@
 # Mini Katalog
 
-Flutter ile gelistirilen basit bir urun katalog uygulamasi. Ana sayfa, urun listesi (GridView) ve urun detay ekranlari bulunur. Urunler wantapi.com API uzerinden cekilir; internet yoksa yerel JSON dosyasi kullanilir.
+Flutter ile geliştirilen basit bir ürün katalog uygulaması. Ana sayfa, ürün listesi (GridView) ve ürün detay ekranları bulunur. Ürünler wantapi.com API üzerinden çekilir; internet yoksa yerel JSON dosyası kullanılır.
 
-## Ozellikler
+## Özellikler
 
-- Ana sayfa ve banner gorseli
-- GridView ile urun listesi
-- Urun detay ekrani (route arguments)
+- Ana sayfa ve banner görseli
+- GridView ile ürün listesi
+- Ürün detay ekranı (route arguments)
 - Named routes ve MaterialPageRoute
 - Arama / filtreleme
-- Sepet simulasyonu (sepete ekle, sepet ekrani)
+- Sepet simülasyonu (sepete ekle, sepet ekranı)
 - JSON model (fromJson / toJson)
-- Ek paket kullanilmadi (sadece material.dart)
+- Ek paket kullanılmadı (sadece material.dart)
 
 ## Gereksinimler
 
 - Flutter SDK 3.44.2
 - Android Studio veya VS Code
-- Android emulator veya fiziksel cihaz
+- Android emülatör veya fiziksel cihaz
 
 ## Kurulum
 
-1. Flutter SDK kurulu degilse: https://docs.flutter.dev/get-started/install/windows
-2. Proje klasorune gidin:
+1. Flutter SDK kurulu değilse: https://docs.flutter.dev/get-started/install/windows
+2. Proje klasörüne gidin:
 
 ```bash
 cd C:\projects\mini_katalog
 ```
 
-3. Bagimliliklari indirin:
+3. Bağımlılıkları indirin:
 
 ```bash
 flutter pub get
 ```
 
-4. Uygulamayi calistirin:
+4. Uygulamayı çalıştırın:
 
 ```bash
 flutter run
 ```
 
-## Ekran Goruntuleri
-
-### Ana Sayfa
-![Ana Sayfa](screenshots/ana_sayfa.png)
-
-### Urun Listesi
-![Urun Listesi](screenshots/urun_listesi.png)
-
-### Urun Detay
-![Urun Detay](screenshots/urun_detay.png)
-
-### Arama
-![Arama](screenshots/arama.png)
-
-### Sepet
-![Sepet](screenshots/sepet.png)
-
-## Proje Yapisi
+## Proje Yapısı
 
 ```
 lib/
@@ -79,12 +62,12 @@ assets/
 screenshots/
 ```
 
-## Veri Kaynaklari
+## Veri Kaynakları
 
 - API: https://wantapi.com/products.php
 - Banner: https://wantapi.com/assets/banner.png
 - Yerel yedek: assets/products.json
 
-## Gelistirici
+## Geliştirici
 
 Elif Yurttakalan
