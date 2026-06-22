@@ -1,0 +1,116 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "iPhone 15 Pro",
+      "tagline": "Titanyum. Güçlü. Hafif. Pro.",
+      "description": "A17 Pro işlemci, titanyum gövde ve 48MP kamera ile üst düzey performans sunar.",
+      "price": "$999",
+      "currency": "USD",
+      "image": "https://wantapi.com/assets/images/iphone.png",
+      "specs": {
+        "İşlemci": "A17 Pro",
+        "Malzeme": "Titanyum",
+        "Kamera": "48MP Ana kamera"
+      }
+    },
+    {
+      "id": 2,
+      "name": "iPhone 15",
+      "tagline": "Yeni kamera. Yeni tasarım. Yeni deneyim.",
+      "description": "Dynamic Island ve 48MP kamera ile günlük kullanım için ideal bir iPhone modeli.",
+      "price": "$799",
+      "currency": "USD",
+      "image": "https://wantapi.com/assets/images/iphone_pink.png",
+      "specs": {
+        "İşlemci": "A16 Bionic",
+        "Malzeme": "Alüminyum",
+        "Kamera": "48MP Ana kamera"
+      }
+    },
+    {
+      "id": 6,
+      "name": "MacBook Pro 16\"",
+      "tagline": "Profesyoneller için üstün güç.",
+      "description": "M3 Max işlemci ve Liquid Retina XDR ekran ile yoğun iş yükleri için tasarlandı.",
+      "price": "$2,499",
+      "currency": "USD",
+      "image": "https://wantapi.com/assets/images/macbook.png",
+      "specs": {
+        "İşlemci": "M3 Max",
+        "Ekran": "Liquid Retina XDR",
+        "Pil": "22 saat"
+      }
+    },
+    {
+      "id": 8,
+      "name": "MacBook Air 15\"",
+      "tagline": "İnce, hafif ve güçlü.",
+      "description": "M2 işlemci ile taşınabilirlik ve performansı bir arada sunan laptop.",
+      "price": "$1,299",
+      "currency": "USD",
+      "image": "https://wantapi.com/assets/images/macbook_air.png",
+      "specs": {
+        "İşlemci": "M2",
+        "Ağırlık": "1.5 kg",
+        "Tasarım": "Fansız"
+      }
+    },
+    {
+      "id": 11,
+      "name": "iPad Pro 12.9\"",
+      "tagline": "M2 ile üst düzey iPad deneyimi.",
+      "description": "M2 işlemci ve Liquid Retina XDR ekran ile profesyonel kullanım sunar.",
+      "price": "$1,099",
+      "currency": "USD",
+      "image": "https://wantapi.com/assets/images/ipad.png",
+      "specs": {
+        "İşlemci": "M2",
+        "Ekran": "XDR",
+        "Kalem": "Hover desteği"
+      }
+    },
+    {
+      "id": 14,
+      "name": "Apple Watch Ultra 2",
+      "tagline": "Dayanıklılıkta yeni seviye.",
+      "description": "Titanyum kasa ve çift frekanslı GPS ile outdoor kullanım için tasarlandı.",
+      "price": "$799",
+      "currency": "USD",
+      "image": "https://wantapi.com/assets/images/watch.png",
+      "specs": {
+        "Kasa": "Titanyum",
+        "Parlaklık": "3000 nit",
+        "GPS": "Çift frekanslı"
+      }
+    },
+    {
+      "id": 17,
+      "name": "AirPods Pro (2. Nesil)",
+      "tagline": "Uyarlanabilir ses deneyimi.",
+      "description": "H2 işlemci ile gelişmiş aktif gürültü engelleme ve net ses kalitesi.",
+      "price": "$249",
+      "currency": "USD",
+      "image": "https://wantapi.com/assets/images/airpods.png",
+      "specs": {
+        "İşlemci": "H2",
+        "Ses": "Uzamsal ses",
+        "Kutu": "USB-C"
+      }
+    },
+    {
+      "id": 20,
+      "name": "HomePod Mini",
+      "tagline": "Küçük boyut, büyük ses.",
+      "description": "Kompakt tasarımda 360 derece ses ve akıllı ev entegrasyonu sunar.",
+      "price": "$99",
+      "currency": "USD",
+      "image": "https://wantapi.com/assets/images/homepod_mini.png",
+      "specs": {
+        "Boyut": "8.4 cm",
+        "Ses": "360 derece",
+        "Renkler": "5 renk seçeneği"
+      }
+    }
+  ]
+}
